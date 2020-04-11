@@ -39,7 +39,7 @@ Accommodation of right-to-left languages (for example, Arabic)
     ```
     django-admin startapp person_django_rest_swagger
     ```
- - Integrating Django Rest
+ - Integrating internationalization_languages
     ```
     pip install internationalization_languages
     ```
